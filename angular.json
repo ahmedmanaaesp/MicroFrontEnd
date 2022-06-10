@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "RessourceHumaine"
+    }
+  },
+  "defaultProject": "RessourceHumaine",
+  "cli": {
+    "analytics": false
+  }
 }
